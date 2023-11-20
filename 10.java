@@ -1,4 +1,4 @@
-public class AlsAllWet {
+public class main {
     public static void main(String args[]) {
         for (int verse = 1; verse <= 3; verse++) {
             System.out.print("Al's all wet. ");
